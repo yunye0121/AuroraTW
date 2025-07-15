@@ -104,7 +104,7 @@ Replace `[your_config.yaml]` with your configuration file.
 To perform inference:
 
 ```bash
-bash inference.sh
+bash single_ar_eval.sh
 ```
 
 <!-- Or run directly:
