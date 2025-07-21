@@ -178,10 +178,10 @@ See the [LICENSE](LICENSE) file for details.
 If you use AuroraTW in your research or project, please cite us as follows:
 
 ```bibtex
-@misc{auroratw2024,
+@misc{auroratw2025,
   title   = {AuroraTW: A Taiwanese Weather Foundation Model Implementation},
-  author  = {Yunye, Author and Contributors},
-  year    = {2024},
+  author  = {Yun-Ye, Cai},
+  year    = {2025},
   url     = {https://github.com/yunye0121/AuroraTW},
   note    = {GitHub repository}
 }
