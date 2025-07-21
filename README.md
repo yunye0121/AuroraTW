@@ -54,6 +54,17 @@ utils.py                 # General utility functions
 
 --- -->
 
+## Our Contribution and public checkpoints:
+We have released preliminary model checkpoints for non-commercial use.
+While these models are publicly available and free to use,
+please note that we do not guarantee 100% accuracy in the predictions or inferences made by the models.
+
+Currently, we provide checkpoints for three different lead times: 1 hour, 3 hours, and 24 hours.
+All checkpoints are saved in .pth format and will be made compatible with the new Safetensors format in the near future.
+
+You can access all available checkpoints here:
+https://drive.google.com/drive/folders/1PIS0pf3owXg69OA7TM_y79-djgTnGrcI
+
 ## Installation
 
 ### Requirements
