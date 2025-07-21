@@ -54,7 +54,7 @@ utils.py                 # General utility functions
 
 --- -->
 
-## Our Contribution and public checkpoints:
+## Our Contribution and Public Checkpoints:
 We have released preliminary model checkpoints for non-commercial use.
 While these models are publicly available and free to use,
 please note that we do not guarantee 100% accuracy in the predictions or inferences made by the models.
